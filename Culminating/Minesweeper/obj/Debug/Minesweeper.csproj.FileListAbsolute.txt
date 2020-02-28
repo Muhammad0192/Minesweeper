@@ -1,0 +1,10 @@
+C:\Users\HP Envy\Documents\Culminating\Minesweeper\bin\Debug\Minesweeper.exe.config
+C:\Users\HP Envy\Documents\Culminating\Minesweeper\bin\Debug\Minesweeper.exe
+C:\Users\HP Envy\Documents\Culminating\Minesweeper\bin\Debug\Minesweeper.pdb
+C:\Users\HP Envy\Documents\Culminating\Minesweeper\obj\Debug\Minesweeper.csprojAssemblyReference.cache
+C:\Users\HP Envy\Documents\Culminating\Minesweeper\obj\Debug\Minesweeper.Form1.resources
+C:\Users\HP Envy\Documents\Culminating\Minesweeper\obj\Debug\Minesweeper.Properties.Resources.resources
+C:\Users\HP Envy\Documents\Culminating\Minesweeper\obj\Debug\Minesweeper.csproj.GenerateResource.cache
+C:\Users\HP Envy\Documents\Culminating\Minesweeper\obj\Debug\Minesweeper.csproj.CoreCompileInputs.cache
+C:\Users\HP Envy\Documents\Culminating\Minesweeper\obj\Debug\Minesweeper.exe
+C:\Users\HP Envy\Documents\Culminating\Minesweeper\obj\Debug\Minesweeper.pdb
